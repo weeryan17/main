@@ -1,0 +1,12 @@
+.sectionHead {
+	padding: 30px;
+	margin-bottom: 30px;
+	color: inherit;
+	background-color: #993333
+}
+
+.sectionHead p {
+	margin-bottom: 15px;
+	font-size: 21px;
+	font-weight: 200
+}
